@@ -2,7 +2,7 @@
 
 **Author of the project:** Nilgun Bayrakdar Sadik
 
-**Goal of the project** Medal number of women in individual games by year, age and country will be observed. 
+**Goal of the project** Medal number in the individual games by year, age, gender and country will be observed. 
 ```
 1. Description of the dataset:
 
