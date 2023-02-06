@@ -14,6 +14,6 @@ Data source: https://www.kaggle.com/datasets/piterfm/olympic-games-medals-198620
 
 2. Planing of the project:
 
-Day 1 and Day 2: Cleaning Data: Remove typos and dublicates, correct datatypes
-Day 3: Visualisation via Tableau
+Day 1: Cleaning Data: Remove typos and dublicates, correct datatypes
+Day 2 and Day 3: Visualisation via Tableau
 Day 4: Preparing the presentation
