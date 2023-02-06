@@ -13,7 +13,7 @@ Data:olympic_athletes.csv (75905 rows)
 Data source: https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018
 
 2. Planing of the project:
-`
+
 Day 1 and Day 2: Cleaning Data: Remove typos and dublicates, correct datatypes
-Day 3: Connecte MySql to Tableau and MySql queries
-Day 4: Visualisation on Tableau
+Day 3: Visualisation via Tableau
+Day 4: Preparing the presentation
